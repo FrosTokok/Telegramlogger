@@ -1,0 +1,9 @@
+{
+  "author": ["buzadora"],
+  "install_msg": "Ког TelegramLogger установлен.",
+  "name": "telegramlogger",
+  "short": "Лог удалённых сообщений в Telegram",
+  "description": "Этот ког отправляет удалённые сообщения из Discord в Telegram.",
+  "tags": ["logging", "telegram", "moderation"]
+}
+
